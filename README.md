@@ -30,5 +30,5 @@ Yuki Kato, Jan Gorodkin and Jakob Hull Havgaard,
 **Alignment-free genomic screen for structured RNAs using coarse-grained secondary structure dot plots**,  
 *submitted*.
 
-If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)
+If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)  
 *Graduate School of Medicine, Osaka University, Japan*
