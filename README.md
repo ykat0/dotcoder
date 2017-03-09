@@ -1,4 +1,4 @@
-# dotcoder
+# DotcodeR
 **Alignment-free genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
 
 Last modified: 2016-12-13
