@@ -1,5 +1,5 @@
 # DotcodeR
-**Alignment-free genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
+**Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
 
 Last modified: 2016-12-13
 
@@ -27,7 +27,7 @@ Test set for benchmarking DotcodeR (**Test_set.tar.gz**)
 
 ## Reference
 Yuki Kato, Jan Gorodkin and Jakob Hull Havgaard,
-**Alignment-free genomic screen for structured RNAs using coarse-grained secondary structure dot plots**,
+**Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**,
 *submitted*.
 
 ---
