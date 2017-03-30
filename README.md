@@ -1,7 +1,7 @@
 # DotcodeR
 **Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
 
-Last modified: 2016-12-13
+Last updated: 2016-12-13
 
 ## Program
 * DotcodeR (ver. 1.0.0) (**dotcoder-1.0.0.tar.gz**) in C++ program
