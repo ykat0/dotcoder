@@ -1,6 +1,6 @@
 # DotcodeR
 
-[![DOI](https://zenodo.org/badge/84285936.svg)](https://zenodo.org/badge/latestdoi/84285936)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.839597.svg)](https://doi.org/10.5281/zenodo.839597)
 
 **Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
 
