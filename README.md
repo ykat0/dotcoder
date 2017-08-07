@@ -4,10 +4,10 @@
 
 **Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**
 
-Last updated: 2017-03-30
+Last updated: 2017-08-07
 
 ## Program
-* DotcodeR (ver. 1.0.0) (**dotcoder-1.0.0.tar.gz**) in C++ program
+* DotcodeR (ver. 1.0.1) (**dotcoder-1.0.1.tar.gz**) in C++ program
 
 ### Requirements
 * ViennaRNA package (>= 2.0)
@@ -15,8 +15,8 @@ Last updated: 2017-03-30
 ### Install on Linux and Mac OS
 Type the followings in your terminal:
 
-$ tar zxf dotcoder-1.0.0.tar.gz  
-$ cd dotcoder-1.0.0  
+$ tar zxf dotcoder-1.0.1.tar.gz  
+$ cd dotcoder-1.0.1 
 $ ./configure --with-vienna-rna=/path/to/vienna-rna
 
 Then,
