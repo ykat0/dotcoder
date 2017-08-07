@@ -16,7 +16,7 @@ Last updated: 2017-08-07
 Type the followings in your terminal:
 
 $ tar zxf dotcoder-1.0.1.tar.gz  
-$ cd dotcoder-1.0.1 
+$ cd dotcoder-1.0.1  
 $ ./configure --with-vienna-rna=/path/to/vienna-rna
 
 Then,
