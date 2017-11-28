@@ -12,7 +12,7 @@ Last updated: 2017-11-28
 ### Requirements
 * ViennaRNA package (>= 2.0)
 
-### Install on Linux and Mac OS
+### Install on Linux and macOS
 Type the followings in your terminal:
 
 $ tar zxf dotcoder-1.0.1.tar.gz  
@@ -36,3 +36,4 @@ Yuki Kato, Jan Gorodkin and Jakob Hull Havgaard,
 ---
 If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)  
 *Graduate School of Medicine, Osaka University, Japan*
+*Center for non-coding RNA in Technology and Health (RTH), University of Copenhagen, Denmark*
