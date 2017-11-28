@@ -35,5 +35,5 @@ Yuki Kato, Jan Gorodkin and Jakob Hull Havgaard,
 
 ---
 If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)  
-*Graduate School of Medicine, Osaka University, Japan*
+*Graduate School of Medicine, Osaka University, Japan*  
 *Center for non-coding RNA in Technology and Health (RTH), University of Copenhagen, Denmark*
