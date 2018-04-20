@@ -31,7 +31,7 @@ Test set for benchmarking DotcodeR (**Test_set.tar.gz**)
 ## Reference
 Yuki Kato, Jan Gorodkin and Jakob Hull Havgaard,
 **Alignment-free comparative genomic screen for structured RNAs using coarse-grained secondary structure dot plots**,
-*BMC Genomics*, vol. 18, 935, 2017.
+*BMC Genomics*, in press.
 
 ---
 If you have any questions, please contact [Yuki Kato](http://www.med.osaka-u.ac.jp/pub/rna/ykato/)  
